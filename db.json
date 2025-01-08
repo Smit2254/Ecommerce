@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Casual Wear shirt",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4,
+      "vendorName": "Harsh shah"
+    },
+    {
+      "id": "2",
+      "title": "Mens Tshirt",
+      "price": 249.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 5,
+      "vendorName": "Manav Keshvani"
+    },
+    {
+      "id": "3",
+      "title": "Mens Googles",
+      "price": 799.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4,
+      "vendorName": "Dhruvil mistry"
+    },
+    {
+      "id": "4",
+      "title": "Women's jeans",
+      "price": 348,
+      "image": "https://via.placeholder.com/150",
+      "rating": 5,
+      "vendorName": "Kush patel"
+    },
+    {
+      "id": "5",
+      "title": "Women's printed T-shirts",
+      "price": 299.99,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4,
+      "vendorName": "Meet Parekh"
+    },
+    {
+      "id": "6",
+      "title": "Fashion Tshirts",
+      "price": 149.95,
+      "image": "https://via.placeholder.com/150",
+      "rating": 4,
+      "vendorName": "Smit Bhavsar"
+    },
+    {
+      "id": "3960",
+      "title": "Women's googles",
+      "price": "76",
+      "rating": "5",
+      "image": "https://via.placeholder.com/150",
+      "vendorName": "Smit Bhavsar"
+    },
+    {
+      "id": "7c44",
+      "title": "womens printed tshirt",
+      "price": "650",
+      "rating": "4.4",
+      "image": "https://via.placeholder.com/150",
+      "vendorName": "Smit Bhavsar"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Vendor One",
+      "email": "vendor1@example.com",
+      "password": "vendor123",
+      "role": "vendor"
+    },
+    {
+      "id": "2",
+      "name": "User One",
+      "email": "user1@example.com",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": "7e48",
+      "name": "smit bhavsar",
+      "email": "smitbhavsar23@gmail.com",
+      "password": "smit2254",
+      "role": "user"
+    }
+  ],
+  "orders": []
+}
